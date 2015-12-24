@@ -1,2 +1,3 @@
-First pull via git bash.
+First push via git bash.
 
+Second push.
