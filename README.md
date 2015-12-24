@@ -17,3 +17,10 @@ Please Resolve Conflict!!!!!
 
 
 20:06 Add tail
+
+
+
+function seunghwan() {
+	kkkkk
+	ddddd
+}
